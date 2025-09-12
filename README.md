@@ -40,15 +40,15 @@ Alongside my degree, I’ve specialized in **modern web development**, particula
 ---
 
 ### 📊 GitHub Stats  
-![Wahib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadwahib&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadwahib&layout=compact&theme=tokyonight)  
+![Wahib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mwahib001&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mwahib001&layout=compact&theme=tokyonight)  
 
 ---
 
 ### 📫 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 🌍 [Portfolio](https://your-portfolio-link.com)  
-- 📧 Email: your@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-wahib-85a836227/)  
+- 🌍 [Portfolio](https://wahib.tech)  
+- 📧 Email: muhammadwahib001@gmail.com  
 
 ---
 
