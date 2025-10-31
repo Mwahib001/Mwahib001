@@ -40,8 +40,10 @@ Alongside my degree, I’ve specialized in **modern web development**, particula
 ---
 
 ### 📊 GitHub Stats  
-![Wahib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mwahib001&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mwahib001&layout=compact&theme=tokyonight)  
+![Wahib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mwahib001&show_icons=true&theme=tokyonight&refresh=1) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mwahib001&layout=compact&theme=tokyonight&cache_seconds=60)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mwahib001&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mwahib001&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
